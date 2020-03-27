@@ -10,4 +10,4 @@ Final year CS project
     -  <venv>\Scripts\activate.bat
   
 - Install requirements
-  - pip install -r requirements
+  - pip install -r requirements.txt
